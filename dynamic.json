@@ -1,0 +1,48 @@
+{
+	"profile":{
+		"img":"profile pic.jpg",
+		"name":"maha",
+		"roll":"12345",
+		"place":"vijayawada",
+		"email":"aaa@gmail.com"
+	},
+	"career":{
+		"info":"I want to seek a job in reputed company to explore my taughts for the benefits of the company"
+	},
+	"education":[
+		{
+  "degree":"b.tech",
+  "institute":"zxzcxcnbh",
+  "per":"89%",
+   "yop":"2018"
+
+	},
+	{
+    "degree":"intermediate",
+    "institute":"zxzc",
+   "per":"87%",
+   "yop":"2014"
+
+	   },
+	{
+    "degree":"s.s.c",
+    "institute":"cnbh",
+    "per":"89%",
+    "yop":"2012"
+
+	}
+
+
+	],
+	"languages":[
+		{
+          "info":"english"
+		},
+		{
+			"info":"telugu"
+		},
+		{
+			"info":"hindi"
+		}
+	]
+}
